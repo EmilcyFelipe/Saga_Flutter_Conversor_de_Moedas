@@ -1,5 +1,7 @@
 # conversor_de_moedas
 
+![](https://github.com/EmilcyFelipe/Saga_Flutter_Conversor_de_Moedas/blob/master/conversor.png)
+
 ## Agrupamento
     Este projeto, conversor de moedas, é o terceiro projeto da minha Saga para aprender flutter
     📚⚒🛠🧱
